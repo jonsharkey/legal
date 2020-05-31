@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I will not require you to provide us with certain personally identifiable information.
+For a better experience, while using our Service, I will not require you to provide us with any personally identifiable information.
 
 **Log Data**
 
